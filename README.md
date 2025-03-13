@@ -8,7 +8,7 @@ Machine Learning Model: Trained using Logistic Regression, Random Forest, Naïve
 NLP-Based Analysis: Preprocessing includes text cleaning, removing stopwords, and vectorization.
 Web Application: Built using Flask.
 Dataset: Publicly available datasets from Kaggle containing labeled fake and real news articles.
-Accuracy: The best-performing model achieves 87.04% accuracy on 10,000+ records.
+Accuracy: The best-performing model achieves 87.04% accuracy on 60,000+ records.
 
 # Technologies Used
 Programming Language: Python 3.9
